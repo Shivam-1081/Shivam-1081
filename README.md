@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamk97738901" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk97738901?logo=twitter&style=for-the-badge" alt="shivamk97738901" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular And  Django**
 
 - 💬 Ask me about **Web_development**
 
